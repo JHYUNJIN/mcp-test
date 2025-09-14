@@ -5,7 +5,7 @@
 - **GitHub 사용자명**: JHYUNJIN
 
 ## 개인 정보
-- 커피를 하루에 5잔 마심
+- 하루 평균 커피 섭취량 5잔
 
 ## 추가 정보
 - MCP (Model Context Protocol) 관련 작업 진행 중
